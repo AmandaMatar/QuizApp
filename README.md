@@ -37,6 +37,8 @@ Confira o projeto de aprendizagem [RouterVueLearning](https://github.com/AmandaM
  <br>
  <br>
  Obrigada!
+ <br>
+ <br>
 # QuizApp
 
 This template should help get you started developing with Vue 3 in Vite.
