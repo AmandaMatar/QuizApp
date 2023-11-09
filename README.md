@@ -1,6 +1,7 @@
 # QuizApp
 
-![template](https://drive.google.com/13XbjsFwtpzH0z6Mgz4wesnSFCDkSIemj)
+![template](https://drive.google.com/uc?id=13XbjsFwtpzH0z6Mgz4wesnSFCDkSIemj)
+
 
 **Este projeto foi desenvolvido a partir do The Vue 3 Bootcamp - The Complite Developer Guide, como proposta de terceiro projeto usado o Vue 3.**
 
