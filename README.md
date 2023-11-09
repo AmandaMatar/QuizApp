@@ -2,6 +2,10 @@
 
 **Este projeto foi desenvolvido a partir do The Vue 3 Bootcamp - The Complite Developer Guide, como proposta de terceiro projeto usado o Vue 3.**
 
+## Primeira etapa
+
+<br>
+
 ## O que vimos neste projeto?
 - App Overview
 - The HTML and CSS
@@ -32,11 +36,37 @@ Confira o projeto de aprendizagem [RouterVueLearning](https://github.com/AmandaM
 <br>
  :wink:
 
- #### Em breve você pode conferir o desenvolvimento final do prejto.
+## Segunda etada
+
+Nessa segunda etapa foi trabalhado alguns aspectos importantes sobre o animation. Neste contexto, realizamos dois projetos paralelos com o objeto de: estudo de práticas iniciais, aplicação em um pequeno projeto com um template mais elaborado. **Você pode conferir os dois projetos logo abaixo:**
+
+> [!NOTE]
+> Confira o projeto **animation** clicando [aqui!](https://github.com/AmandaMatar/animation)
+
+<br>
+<br>
+
+> [!NOTE]
+> Confira o projeto **smallApp** clicando [aqui!](https://github.com/AmandaMatar/smallApp)
+
+### O que vimos?
+
+- Introduction to Vue Animations
+- The Transition Component
+- Animationg When a Component Leaves
+- Conditional Rendering Animations
+- TransitionGroup to Animate Multiple Elements
+- Routing Animations
+- Lifecycle Hook of the Transition
+- Animation Styling With Java Script
+
+:nerd_face:
 
  <br>
  <br>
+
  Obrigada!
+ 
  <br>
  <br>
  
