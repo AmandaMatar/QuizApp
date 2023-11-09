@@ -1,5 +1,13 @@
 # QuizApp
 
+**Antes de começar confira o resultado do nosso desenvolvimento no vídeo abaixo!**
+
+<br>
+
+***Clique na imagem para ser redirecionado!***
+
+<br>
+
 [![template](https://drive.google.com/uc?id=1UTXb45RsCmN2RSEfYgIAVMnc5DI-gyI6)](https://youtu.be/Xo1zjRJmMyg)
 
 
