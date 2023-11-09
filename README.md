@@ -40,6 +40,8 @@ Confira o projeto de aprendizagem [RouterVueLearning](https://github.com/AmandaM
 
 Nessa segunda etapa foi trabalhado alguns aspectos importantes sobre o animation. Neste contexto, realizamos dois projetos paralelos com o objeto de: estudo de práticas iniciais, aplicação em um pequeno projeto com um template mais elaborado. **Você pode conferir os dois projetos logo abaixo:**
 
+ <br>
+
 > [!NOTE]
 > Confira o projeto **animation** clicando [aqui!](https://github.com/AmandaMatar/animation)
 
@@ -60,15 +62,16 @@ Nessa segunda etapa foi trabalhado alguns aspectos importantes sobre o animation
 - Lifecycle Hook of the Transition
 - Animation Styling With Java Script
 
+ <br>
+
 :nerd_face:
 
  <br>
- <br>
 
  Obrigada!
+
+ <br>
  
- <br>
- <br>
  
 # QuizApp
 
