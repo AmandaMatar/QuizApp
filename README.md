@@ -1,9 +1,6 @@
 # QuizApp
 
-![Vídeo](<iframe width="560" height="315" src="https://www.youtube.com/embed/Xo1zjRJmMyg?si=QNKmsAMLJducdzsX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)(https://youtu.be/Xo1zjRJmMyg?si=QNKmsAMLJducdzsX)
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xo1zjRJmMyg?si=QNKmsAMLJducdzsX" frameborder="0" allowfullscreen></iframe>
 
 
 **Este projeto foi desenvolvido a partir do The Vue 3 Bootcamp - The Complite Developer Guide, como proposta de terceiro projeto usado o Vue 3.**
